@@ -1,4 +1,12 @@
-site_name: https://github.com/funcdfs
+site_name: obsidian_mkdocs
+
+exclude_docs: |
+  .*
+  /day/
+  /time/
+  /z-config/
+  /.obsidian/
+  /draft/
 
 theme:
     icon:
