@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1730477595122,
+      "path": "数学/总结——模拟卷/TOTAL.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1730971875945,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/英语政治.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/数学.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/数据结构.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/计算机组成原理.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/操作系统.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971863201,
+          "path": "draft/计算机网络.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971949948,
+          "path": "draft/TODO.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730971956303,
+          "path": "draft/none.md"
+        }
+      ],
+      "title": "space"
+    }
+  ]
+}

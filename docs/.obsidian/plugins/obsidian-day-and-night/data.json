@@ -1,12 +1,12 @@
 {
   "pluginEnabled": true,
-  "currentTheme": "Typewriter",
-  "currentColorScheme": "obsidian",
+  "currentTheme": "Dawn",
+  "currentColorScheme": "moonstone",
   "dayColorScheme": "moonstone",
   "dayTime": "09:00",
-  "dayTheme": "Typewriter",
+  "dayTheme": "Dawn",
   "nightColorScheme": "obsidian",
   "nightTime": "17:00",
-  "nightTheme": "Typewriter",
-  "pauseThemeToggle": true
+  "nightTheme": "Dawn",
+  "pauseThemeToggle": false
 }

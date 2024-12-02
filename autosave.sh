@@ -4,6 +4,7 @@
 GREEN='\033[0;32m'
 RED='\033[0;31m'
 NC='\033[0m' # 无色
+git config --global user.email "funcdfs@gmail.com"
 
 # 获取当前日期和时间，格式为 YYYY_MM_DD--HH:MM:SS
 time=$(date "+%Y_%m_%d--%H:%M:%S")

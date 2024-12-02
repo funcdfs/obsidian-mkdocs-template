@@ -4,12 +4,11 @@
   "obsidian-image-auto-upload-plugin",
   "highlightr-plugin",
   "obsidian-auto-hide",
-  "obsidian-annotator",
   "obsidian-focus-mode",
   "better-export-pdf",
-  "recent-files-obsidian",
-  "nldates-obsidian",
   "obsidian-auto-link-title",
-  "obsidian-vimrc-support",
-  "obsidian-day-and-night"
+  "obsidian-day-and-night",
+  "calendar",
+  "templater-obsidian",
+  "obsidian-list-callouts"
 ]

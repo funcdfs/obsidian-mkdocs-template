@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "workspace:export-pdf",
+    "file-explorer:new-file",
+    "editor:toggle-source",
+    "workspace:close-others-tab-group"
+  ]
+}

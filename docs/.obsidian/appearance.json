@@ -1,10 +1,10 @@
 {
-  "accentColor": "#3d408f",
-  "theme": "obsidian",
+  "accentColor": "#7b7dc6",
+  "theme": "moonstone",
   "textFontFamily": "PingFang SC,Microsoft YaHei",
   "interfaceFontFamily": "PingFang SC,霞鹜文楷 GB 屏幕阅读版 R,Microsoft YaHei UI",
   "baseFontSize": 16,
-  "cssTheme": "Typewriter",
-  "monospaceFontFamily": "Source Code Pro,PingFang SC,Microsoft JhengHei",
+  "cssTheme": "Dawn",
+  "monospaceFontFamily": "Monaco,Source Code Pro,PingFang SC,Microsoft JhengHei",
   "translucency": false
 }

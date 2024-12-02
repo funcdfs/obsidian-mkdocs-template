@@ -1,35 +1,29 @@
-> GitHub's default Markdown preview works well but isn't ideal for viewing notes on mobile or tablets.   
-Obsidian is a great note-taking software, but its publish feature is paid and lacks customization.    
-MkDocs is an excellent renderer for displaying personal notes (emmm, obsidian default UI).   
-$\displaystyle \text{Hosting your obsidian notes on github-pages or vercel using mkdocs}$ is the **perfect solution** for full accessibility across all devices."
+# Obsidian MkDocs Template
 
+Publish your Obsidian notes as a static website, deployable on GitHub Pages or Vercel.
 
-## obsidian_mkdocs_template
+Live demo: [GitHub Pages Demo](https://funcdfs.github.io/obsidian-mkdocs-template/)
 
-publish your obsidian note to a static webstie use vercel or github pages 
+## Why MkDocs?
 
-like this: [github pages online preview](https://funcdfs.github.io/obsidian-mkdocs-template/)
+- GitHub's default Markdown preview isn't optimal for mobile devices
+- Obsidian's official publish service is paid and has limited customization
+- MkDocs provides excellent rendering for personal notes
+- Free hosting on GitHub Pages or Vercel for access anywhere, anytime
 
+## Obsidian Plugins Used
 
-## Obsidian Plugins:
+### Document Enhancement
+- **LaTeX Suite**: Mathematical notation support
+- **Linter**: Markdown formatting standardization
+- **List Callouts**: Enhanced list styling
 
-docs folder
+### Editing Experience
+- **Auto-Hide**: Automatic UI element hiding
+- **Focus Mode**: Distraction-free writing
+- **Calendar**: Calendar functionality
 
-### PDF Files:
-- **Obsidian Annotator**: Displays PDFs in the sidebar.
-- **Better Export PDF**: Improves PDF export functionality.
-
-### UI Enhancements:
-- **Obsidian Auto-Hide**: Automatically hides the sidebar.
-- **Obsidian Day and Night**: Automatically switches between light and dark themes.
-- **Obsidian Focus Mode**: Hides unnecessary UI elements for a distraction-free experience.
-- **Recent Files Obsidian**: Displays recent files at the top.
-
-### Markdown Files:
-- **Highlightr Plugin**: Highlights text.
-- **NLDates Obsidian**: Inserts dates and times easily.
-- **Obsidian Image Auto Upload Plugin**: Automatically uploads images using Pigco.
-- **Obsidian LaTeX Suite**: Adds support for math notes with LaTeX.
-- **Obsidian Linter**: Formats markdown files for consistency.
-- **Obsidian Vimrc Support**: Enables support for Vimrc in Obsidian.
-- **Obsidian Auto Link Title**: Automatically generates titles for links.
+### Content Management
+- **Highlightr**: Text highlighting
+- **Auto Link Title**: Automatic link title generation
+- **Templater**: Advanced template system

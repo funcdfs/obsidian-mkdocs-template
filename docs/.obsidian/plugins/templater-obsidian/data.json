@@ -1,0 +1,41 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "template_files",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "draft",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "template_files/math_template.md",
+    "template_files/time_note_template.md",
+    "template_files/insert_time.md",
+    "template_files/day_note_template.md",
+    "template_files/tp.md",
+    "template_files/tpmark.md",
+    "template_files/@list_head.md"
+  ],
+  "startup_templates": []
+}
