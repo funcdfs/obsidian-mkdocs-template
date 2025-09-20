@@ -1,14 +1,12 @@
 [
   "obsidian-latex-suite",
   "obsidian-linter",
-  "obsidian-image-auto-upload-plugin",
   "highlightr-plugin",
-  "obsidian-auto-hide",
-  "obsidian-focus-mode",
-  "better-export-pdf",
   "obsidian-auto-link-title",
-  "obsidian-day-and-night",
-  "calendar",
   "templater-obsidian",
-  "obsidian-list-callouts"
+  "obsidian-list-callouts",
+  "obsidian-image-auto-upload-plugin",
+  "attachment-flow-plugin",
+  "obsidian-outliner",
+  "obsidian-style-settings"
 ]

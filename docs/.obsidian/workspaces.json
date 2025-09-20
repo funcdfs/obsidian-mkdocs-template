@@ -1,0 +1,507 @@
+{
+  "workspaces": {
+    "math": {
+      "main": {
+        "id": "96a41d6432f70722",
+        "type": "split",
+        "children": [
+          {
+            "id": "3d9490422553ff06",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afafd61fa3941331",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "数学——模拟卷/25 模拟/姜晓千四套卷/01.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2593b17c1fe405ca",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca4f930dcc7eb208",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e333f6d0209a5ea6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ae7f128385d4a6e8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 330.5
+      },
+      "right": {
+        "id": "6acaf30e623b74f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c621d2e9d874362",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e736d7d5adaa4b24",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "数学——模拟卷/25 模拟/姜晓千四套卷/01.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 01"
+                }
+              },
+              {
+                "id": "936681ae2ac405a7",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "390ac672a6d1105a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "96c661775ba743b8",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Recent Files.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 286.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "floating": {
+        "id": "aa796f4510bf82e2",
+        "type": "floating",
+        "children": [
+          {
+            "id": "21c76fdac7b3ad80",
+            "type": "window",
+            "children": [
+              {
+                "id": "99e43839fbff15f4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "eecd8a7045be6c87",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/草稿纸.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "草稿纸"
+                    }
+                  },
+                  {
+                    "id": "5510647bdd075eda",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/学习 todos.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "学习 todos"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "272e693fa2aadac5",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a51aad787b0a9746",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/生活 todo.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "生活 todo"
+                    }
+                  },
+                  {
+                    "id": "afbba572c3e0ae92",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/草稿纸 2.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "草稿纸 2"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 271,
+            "y": 151,
+            "width": 1414,
+            "height": 800,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "afafd61fa3941331",
+      "mtime": "2025-09-18T00:12:47+08:00"
+    },
+    "408_英语+政治。": {
+      "main": {
+        "id": "96a41d6432f70722",
+        "type": "split",
+        "children": [
+          {
+            "id": "f4282b4c26b27bbb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fbee65f53234d5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3计算机基础综合——真题/408——2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "408——2025"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b81d6a0b06012b5e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fd64302dbe7553c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2英语——真题/英语一：2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "英语一：2025"
+                }
+              },
+              {
+                "id": "aa0fbdaa2943c63e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1政治——重点/马原.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "马原"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2593b17c1fe405ca",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca4f930dcc7eb208",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e333f6d0209a5ea6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "ae7f128385d4a6e8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "390ac672a6d1105a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 262.5
+      },
+      "right": {
+        "id": "6acaf30e623b74f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c621d2e9d874362",
+            "type": "tabs",
+            "dimension": 65.91448931116389,
+            "children": [
+              {
+                "id": "e736d7d5adaa4b24",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1政治——重点/马原.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "马原 的大纲"
+                }
+              }
+            ]
+          },
+          {
+            "id": "58ab2d04abda1713",
+            "type": "tabs",
+            "dimension": 34.08551068883611,
+            "children": [
+              {
+                "id": "936681ae2ac405a7",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false,
+          "markdown-importer:打开 Markdown 格式转换器": true,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "floating": {
+        "id": "5dacab18eacc0373",
+        "type": "floating",
+        "children": [
+          {
+            "id": "0e82beac3812e9b4",
+            "type": "window",
+            "children": [
+              {
+                "id": "c9035b4ce0efefb2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "60c9ac272ec0c7cf",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/生活 todo.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "生活 todo"
+                    }
+                  },
+                  {
+                    "id": "5b5ee7c88fa6dfae",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/draft.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "draft"
+                    }
+                  },
+                  {
+                    "id": "c7341710f17e3d90",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "draft/学习 todos.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "学习 todos"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 250,
+            "y": 44,
+            "width": 848,
+            "height": 903,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "aa0fbdaa2943c63e",
+      "mtime": "2025-08-29T02:37:47+08:00"
+    }
+  },
+  "active": "math"
+}

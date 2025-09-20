@@ -5,6 +5,22 @@
   "interfaceFontFamily": "PingFang SC,霞鹜文楷 GB 屏幕阅读版 R,Microsoft YaHei UI",
   "baseFontSize": 16,
   "cssTheme": "Dawn",
-  "monospaceFontFamily": "Monaco,Source Code Pro,PingFang SC,Microsoft JhengHei",
-  "translucency": false
+  "monospaceFontFamily": "Source Code Pro,PingFang SC,Microsoft JhengHei",
+  "translucency": false,
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "hide_link",
+    "title_color",
+    "title_symbol_right",
+    "zotero_tab",
+    "image_center_display",
+    "vscode_search_box",
+    "file_name_longer",
+    "link_diff_in_out",
+    "link_hide_http",
+    "tab_zotero",
+    "statusbar_hidden",
+    "baseline-extension-font-cn"
+  ],
+  "showViewHeader": true
 }

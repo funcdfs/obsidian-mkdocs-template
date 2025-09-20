@@ -1702,31 +1702,6 @@ div.mermaid::after {
 
 
 
-/*header background*/
-.cm-header-2::before {
-  content: "";
-  position: absolute;
-  left: 65px;
-  bottom: 2px;
-  width: 150px;
-  height: 12px;
-  transform: skew(-12deg) translateX(-50%);
-  background: rgba(87, 95, 238, 0.221);
-  z-index: -1;
-}
-
-.cm-header-3::before {
-  content: "";
-  position: absolute;
-  left: 10px;
-  bottom: 2px;
-  width: 40px;
-  height: 12px;
-  transform: skew(-12deg) translateX(-50%);
-  background: rgba(14, 250, 124, 0.18);
-  z-index: -1;
-}
-
 /* obsidian-calendar-plugin */
 /* https://github.com/liamcain/obsidian-calendar-plugin */
 
@@ -1750,5 +1725,5 @@ div.mermaid::after {
 
 /*indent size*/
 body {
-  --list-indent: 2.2em;
+  --list-indent: 2.3em;
 }

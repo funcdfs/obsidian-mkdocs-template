@@ -12,7 +12,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "format-yaml-array": {
       "enabled": false,
@@ -45,10 +45,10 @@
     "yaml-timestamp": {
       "enabled": false,
       "date-created": true,
-      "date-created-key": "date created",
+      "date-created-key": "创建时间",
       "date-modified": true,
-      "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a",
+      "date-modified-key": "修改时间",
+      "format": "YYYY-MM-DD HH.mm a",
       "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
       "convert-to-utc": false,
@@ -78,23 +78,23 @@
     },
     "header-increment": {
       "enabled": false,
-      "start-at-h2": false
+      "start-at-h2": true
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
+      "enabled": true,
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": false
+      "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
-      "enabled": false
+      "enabled": true
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
@@ -107,7 +107,7 @@
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
       "enabled": true,
@@ -124,7 +124,8 @@
     "ordered-list-style": {
       "enabled": true,
       "number-style": "ascending",
-      "list-end-style": "."
+      "list-end-style": ".",
+      "preserve-start": true
     },
     "proper-ellipsis": {
       "enabled": false
@@ -143,14 +144,14 @@
       "enabled": false
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
       "enabled": false
     },
     "strong-style": {
       "enabled": true,
-      "style": "consistent"
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": true,
@@ -158,11 +159,11 @@
     },
     "unordered-list-style": {
       "enabled": true,
-      "list-style": "consistent"
+      "list-style": "-"
     },
     "compact-yaml": {
-      "enabled": false,
-      "inner-new-lines": false
+      "enabled": true,
+      "inner-new-lines": true
     },
     "consecutive-blank-lines": {
       "enabled": false
@@ -198,10 +199,10 @@
       "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": false
+      "enabled": true
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -225,34 +226,34 @@
     },
     "trailing-spaces": {
       "enabled": true,
-      "twp-space-line-break": true
+      "two-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-checklist-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-list-item-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "proper-ellipsis-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphens-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-leading-or-trailing-whitespace-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-leftover-footnotes-from-quote-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
-      "enabled": false,
+      "enabled": true,
       "dedupe-alias-key": true,
       "dedupe-tag-key": true,
       "dedupe-array-keys": true,
@@ -267,14 +268,14 @@
       "sort-order": "Ascending Alphabetical"
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
-  "displayChanged": true,
+  "displayChanged": false,
   "lintOnFileChange": true,
-  "displayLintOnFileChangeNotice": true,
+  "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "draft",

@@ -1,8 +1,9 @@
 {
   "pinned": [
+    "typewriter-mode:typewriter-scrolling-and-paragraph-dimming-toggle",
     "workspace:export-pdf",
-    "file-explorer:new-file",
     "editor:toggle-source",
+    "file-explorer:new-file",
     "workspace:close-others-tab-group"
   ]
 }
